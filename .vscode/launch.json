@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "apple",
+      "program": "./lib/main_apple.dart",
+      "request": "launch",
+      "type": "dart",
+      "args": ["--flavor","apple"]
+
+    },
+    {
+      "name": "banana",
+      "program": "./lib/main_banana.dart",
+      "request": "launch",
+      "type": "dart",
+      "args": ["--flavor","banana"]
+    }
+  ]
+}
+
